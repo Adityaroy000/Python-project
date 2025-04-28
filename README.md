@@ -3,7 +3,7 @@
 This repository contains some fun and beginner-friendly **Python projects**, including:  
 - 🐍 **Snake, Water, Gun Game**  
 - 🎯 **Perfect Guess Game**  
-
+- 📺 **YouTube Video Manager** 
 These projects are designed to **improve Python skills** while making learning enjoyable! 🚀  
 
 ---
@@ -52,12 +52,10 @@ A **number guessing game** where you try to guess a random number between **0 an
 
 ---
 
-## 📺 YouTube Video Manager (Python Project)
+## 📺 YouTube Video Manager
 
 A simple command-line Python application to manage a list of YouTube videos — add, update, delete, and view all your videos.  
 Data is stored persistently in a JSON-formatted `youtube.txt` file.
-
----
 
 ## 🚀 Features
 
@@ -66,8 +64,6 @@ Data is stored persistently in a JSON-formatted `youtube.txt` file.
 - ✏️ **Update** existing video details.
 - 🗑️ **Delete** a video from the list.
 - 💾 Data is **saved and loaded** automatically from a text file (`youtube.txt`) in JSON format.
-
----
 
 ## 🛠️ Technologies Used
 
