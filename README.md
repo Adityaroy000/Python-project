@@ -52,15 +52,10 @@ A **number guessing game** where you try to guess a random number between **0 an
 
 ---
 
-## 🚀 How to Run  
-1. **Clone this repository:**  
-   ```sh
-   git clone https://github.com/Adityaroy000/Python-Project.git
-
 ## 📺 YouTube Video Manager (Python Project)
 
 A simple command-line Python application to manage a list of YouTube videos — add, update, delete, and view all your videos.  
-Data is stored persistently in a JSON-formatted `youtube.txt` file inside the project folder.
+Data is stored persistently in a JSON-formatted `youtube.txt` file.
 
 ---
 
@@ -81,7 +76,10 @@ Data is stored persistently in a JSON-formatted `youtube.txt` file inside the pr
 - **OS module** for handling file paths reliably
 
 ---
-
+## 🚀 How to Run  
+1. **Clone this repository:**  
+   ```sh
+   git clone https://github.com/Adityaroy000/Python-Project.git
 ### 📬 Connect with Me
     💡 LeetCode: [adityaroy18](https://leetcode.com/u/adityaroy18/)
     📚 GeeksforGeeks: [royaditkqdh](https://www.geeksforgeeks.org/user/royaditkqdh/)
