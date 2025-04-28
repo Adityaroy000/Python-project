@@ -3,7 +3,8 @@
 This repository contains some fun and beginner-friendly **Python projects**, including:  
 - 🐍 **Snake, Water, Gun Game**  
 - 🎯 **Perfect Guess Game**  
-- 📺 **YouTube Video Manager** 
+- 📺 **YouTube Video Manager**
+  
 These projects are designed to **improve Python skills** while making learning enjoyable! 🚀  
 
 ---
