@@ -57,6 +57,31 @@ A **number guessing game** where you try to guess a random number between **0 an
    ```sh
    git clone https://github.com/Adityaroy000/Python-Project.git
 
+## 📺 YouTube Video Manager (Python Project)
+
+A simple command-line Python application to manage a list of YouTube videos — add, update, delete, and view all your videos.  
+Data is stored persistently in a JSON-formatted `youtube.txt` file inside the project folder.
+
+---
+
+## 🚀 Features
+
+- 📋 **List** all saved YouTube videos with their names and durations.
+- ➕ **Add** a new YouTube video.
+- ✏️ **Update** existing video details.
+- 🗑️ **Delete** a video from the list.
+- 💾 Data is **saved and loaded** automatically from a text file (`youtube.txt`) in JSON format.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3.x**
+- **JSON module** for data storage
+- **OS module** for handling file paths reliably
+
+---
+
 ### 📬 Connect with Me
     💡 LeetCode: [adityaroy18](https://leetcode.com/u/adityaroy18/)
     📚 GeeksforGeeks: [royaditkqdh](https://www.geeksforgeeks.org/user/royaditkqdh/)
